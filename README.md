@@ -170,17 +170,60 @@ section{
 				</ul>
 			</div>
 		</nav>
-		<section class="rouge">
-			<h1>Contactez-moi !</h1>
-			<div class="sec">
-				<p>Mon profil vous intéresse ?</p>
-				<p>N'hésitez pas à me contacter à l'adresse suivante:<br/>
-					<span class="mail">khaljaoudi@outlook.fr</span></p>
-					<p>mes némuros de téléphone sont les suivants : <br/><span class="num">06 50 95 66 02  /  02 47 51 65 61</span></p>
-					<p>Je vous répondrai dans les meilleurs délais !</p>
-				
-			</div>
-		</section>
+		<article>
+			<section id="presentation">
+				<h1>Qui suis-je ?</h1>
+				<div class="sec">
+					<div class="left">
+						<img src="imgs/mini_photo_cv.jpg" alt="Ma photo">
+					</div>
+					<div class="right">
+						<p>Je m'appelle <span class="nom">EL JAOUDI Abdel Jalil</span>, j'ai 48 ans et je vis à Tours</p>
+						<p>curieux, autodidacte et rigoureux dans l'analyse des problèmes complexes et spécialiste dans la pensée de la complexité.</p>
+						<p>actuelement en reconversion professionnelle après un long parcours dans les domaines de la sûreté national(Police national) et de la securité privée</p>
+						<p>spécialiste dans le domaine de la sécurité incendie et l'assistance à la personne</p>
+					</div>
+				</div>
+			</section>
+			<section id="parcours">
+				<h1>parcours et expériences</h1>
+				<div class="sec">
+					<h2>Expériences professionnelles</h2>
+					<div class="exp">
+						<div class="left">
+							<h3>2005 -2018</h3>
+						</div>
+						<div class="right">
+							<h3>sécurité privée</h3>
+							<p>Agent de la sécurité privée et chef d'équipe chez securitas. (Agence de Tours)</p>
+							<p>Agent de la sécurité incendie et assistance à la personne</p>
+							<p>gestion de l'accueil, interventions sur alarmes (incendie et techniques)</p>
+							<p>rondier statique sur un seul site et rondie mobile sur plusieurs sites</p>					
+						</div>
+						<div class="left">
+							<h3>1999 - 2004</h3>
+						</div>
+						<div class="right">
+							<h3>Sûrté national et agent de la Brigade royal au maroc</h3>
+						</div>
+						<div class="left">
+							<h3>1997 - 2018</h3>
+						</div>
+						<div class="right">
+							<h3>chercheur et analyste en Autodidacte</h3>
+							<p>J’ai réussi à retracer les différentes Voies de l'évolution de la pensée humaine "depuis la Grèce de l'antiquité jusqu'à la science contemporaine". J'ai créé mon propre système qui représente le monde et l'homme: c'est un système qui rapporte de nouvelles idées susceptibles de réconcilier la physique quantique avec l'astrophysique; ce nouveau système est capable de corriger le langage ordinaire en précisant les définitions des concepts polysémique ; ce système ouvre des voies donnant accès à de nouvelles solutions pour la neuroscience... </p>
+						</div>
+						<div class="left">
+							<h3>depuis 2018</h3>
+						</div>
+						<div class="right">
+							<p>reconversion professionnelle "Orientation vers le Développement web". </p>
+						</div>
+					</div>
+				</div>
+			</section>
+					
+		</article>
 
 		<footer>
 			<p>Copyright 2019 EL JAOUDI Abdel Jalil -Toute reproduction interdite</p>
